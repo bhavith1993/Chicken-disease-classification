@@ -11,6 +11,7 @@ list_of_files = [
     ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py", #contructor file 
     f"src/{project_name}/components/__init__.py",
+    f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utilis/__init__.py",
     f"src/{project_name}/config/__init__.py",
     f"src/{project_name}/config/configuration.py",
@@ -22,8 +23,8 @@ list_of_files = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"
-    
+    "research/trials.ipynb",
+    "templates/index.html"
     
 ]
 
